@@ -1,0 +1,32 @@
+Date	Event
+Q1 FY 2023	Apple's Q1 fiscal year 2023 earnings conference call
+December 2022	Setting all-time revenue records in several markets
+November 2022	COVID-19-related challenges affecting the supply of iPhone 14 Pro
+2021	Navigating unforeseen and challenging circumstances over the years
+N/A	Reputation of prioritizing people's health and safety throughout the pandemic
+Table 2: Future Action/Event Table
+
+Date	Future Event
+N/A	Continual prioritization of people and innovation in future product development
+N/A	Potential impact of COVID-19 on future business outlook
+N/A	Management for the long term and adaptation to unforeseen circumstances
+N/A	Investment in innovation, people, and making a positive difference in the world
+N/A	Providing technology that enriches customer lives and helps unlock full potential
+Spring	Release of sound recognition feature for HomePod
+Upcoming	Release of Sharper and Tetris movies along with returning series Ted Lasso
+Ongoing	Expansion of Fitness+ catalog of workouts and meditations
+Table 3: Recent Events Table
+
+Date	Past Event
+Last Year	Successful launch of the redesigned M1 MacBook Pros
+Q1	Difficult compare due to successful launch last year
+Last Month	Introduction of new MacBook Pro and Mac mini powered by M2 chips
+Q1	Growth of iPad revenue by 30%
+Q1	Revenue for Wearables, Home and Accessories was down 8%
+A few weeks ago	Announced the next-generation HomePod and sound recognition feature
+Recent	Wide praise for Apple Watch Series 8 and Apple Watch Ultra
+Recent	Introduced emergency SOS via satellite for iPhone 14 customers
+December	Released Freeform app for collaboration across devices
+Recent	Achieved 2 billion active devices in the installed base
+Q1	Set an all-time revenue record of $20.8 billion in services
+Recent	Partnership with Major League Soccer
